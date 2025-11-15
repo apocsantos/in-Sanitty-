@@ -1,4 +1,4 @@
-# in-Sanitty-
+# in-Sanity
 Just a software representation of the insane world of work
 
 # compile:
